@@ -25,5 +25,7 @@
     "prettier": "^2.1.1",
     "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7"
-  }
+  },
+  "repository": "git@github.com:fabiovige/iniciando-back-end-app.git",
+  "author": "Fabio Vige <fabiovige@gmail.com>"
 }
