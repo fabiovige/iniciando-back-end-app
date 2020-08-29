@@ -14,7 +14,6 @@ import User from './User';
  * Um para Um (OneToOne)
  * Um para Muitos (OneToMany)
  * Muitos para Muitos (ManyToMany)
- *
  */
 
 @Entity('appointments')
